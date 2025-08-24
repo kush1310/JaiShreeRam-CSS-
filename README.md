@@ -46,5 +46,13 @@ The webpage utilizes **media queries** to ensure a seamless experience on:
 
    ```bash
    git clone https://github.com/kush1310/JaiShreeRam-CSS-.git
-   ```
    
+---
+
+### Author  
+--- Kush Amit Shah  
+--- Diploma in Computer Engineering  
+--- B.Tech (Pursuing)
+--- Gujarat, India  
+--- Mail: kushshah900@gmail.com  
+--- Interests: Cybersecurity | Web Development | Logical Programming  
